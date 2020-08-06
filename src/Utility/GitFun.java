@@ -6,7 +6,9 @@ public class GitFun {
     public static void main(String[] args) {
 
         int i = 5;
-        System.out.println(i);
+        int t = 15;
+        int a = i + t;
+        System.out.println(a);
     }
 
 
